@@ -28,14 +28,6 @@
         <istack.verson>3.0.11</istack.verson>
     </properties>
 
-    <distributionManagement>
-        <repository>
-            <id>nexus-snapshots</id>
-            <name>Nexus snapshots</name>
-            <url>http://nexus.yndysc.com:8888/repository/maven-snapshots/</url>
-        </repository>
-    </distributionManagement>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
