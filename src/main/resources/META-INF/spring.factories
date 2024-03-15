@@ -1,0 +1,9 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zlf.es.spring.boot.autoconfigure.EsAutoConfigure,\
+  com.zlf.es.spring.boot.autoconfigure.config.FastJsonConfig,\
+  com.zlf.es.spring.boot.autoconfigure.config.JacksonConfig,\
+  com.zlf.es.spring.boot.autoconfigure.config.FeignClientConfig,\
+  com.zlf.es.spring.boot.autoconfigure.config.LocalDateTimeFormatConfig,\
+  com.zlf.es.spring.boot.autoconfigure.config.WebMvcAndJackson2OrFastJsonConfig,\
+  com.zlf.es.spring.boot.autoconfigure.service.impl.DocServiceImpl,\
+  com.zlf.es.spring.boot.autoconfigure.service.impl.IndexServiceImpl
