@@ -2,7 +2,7 @@
 
 es启动器
 
-只需要在nacos的yml中配置：
+1.只需要在nacos的yml中配置：
 
 
 ```
@@ -12,7 +12,7 @@ elasticsearch:
   password: 
 ```
   
-然后在项目中引入下依赖:
+2.然后在项目中引入下依赖:
 
 ```
 <dependency><br>
@@ -22,7 +22,8 @@ elasticsearch:
 </dependency>
 ```
 
+3.文章：
+
+https://blog.csdn.net/qq_34905631/article/details/127394151?spm=1001.2014.3001.5501
 
 即可轻松使用es
-
-[README.md的编写](https://github.com/guodongxiaren/README#readme)
