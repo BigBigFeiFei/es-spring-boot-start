@@ -15,10 +15,10 @@ elasticsearch:
 2.然后在项目中引入下依赖:
 
 ```
-<dependency><br>
-     <groupId>org.zlf\</groupId>
-     <artifactId>es-spring-boot-start</artifactId>
-     <version>1.0-SNAPSHOT</version>
+<dependency>
+    <groupId>io.github.bigbigfeifei</groupId>
+    <artifactId>es-spring-boot-start</artifactId>
+    <version>1.0</version>
 </dependency>
 ```
 
